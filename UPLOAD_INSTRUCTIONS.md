@@ -1,17 +1,24 @@
 
-# 🚀 Amazon Sellers Network - Upload Instructions
+# 🚀 Amazon Sellers Network - Fixed Upload Instructions
+
+## ✅ Fixed Deployment Issues!
+
+The ESLint dependency conflicts have been resolved. The package.json now uses compatible versions:
+- ESLint v8 (downgraded from v9)
+- Compatible TypeScript ESLint packages
+- Removed unnecessary heavy dependencies
 
 ## Quick Upload Method (Recommended)
 
-### Step 1: Download All Files
-1. Download the `github-upload.zip` file from `/home/ubuntu/`
+### Step 1: Download Fixed Files
+1. Download the `github-upload-fixed.zip` file from `/home/ubuntu/`
 2. Extract it on your local computer
 
 ### Step 2: Upload to GitHub
 1. Go to your repository: https://github.com/deviljd69/JDNano
 2. Click **"Add file"** → **"Upload files"**
 3. Drag and drop ALL extracted files and folders
-4. Write commit message: "Add Amazon Sellers Network landing page"
+4. Write commit message: "Add Amazon Sellers Network landing page - Fixed dependencies"
 5. Click **"Commit changes"**
 
 ## What You're Uploading:
