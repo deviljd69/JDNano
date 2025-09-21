@@ -1,0 +1,502 @@
+{
+  "company_background": {
+    "mission": "Empowering Malaysian entrepreneurs to succeed in global Amazon marketplaces through comprehensive support, strategic guidance, and cutting-edge tools.",
+    "overview": "Amazon Sellers Network Malaysia is a premier consulting and support platform dedicated to helping Malaysian businesses navigate the complexities of selling on Amazon's global marketplaces. We bridge the gap between local entrepreneurs and international e-commerce success, providing end-to-end solutions from account setup to scaling operations.",
+    "established": "Founded to address the unique challenges faced by Malaysian sellers in cross-border e-commerce",
+    "focus_markets": [
+      "Amazon US (amazon.com)",
+      "Amazon UAE (amazon.ae)", 
+      "Amazon Singapore (amazon.sg)",
+      "Amazon UK (amazon.co.uk)"
+    ],
+    "key_differentiators": [
+      "Deep understanding of Malaysian business landscape and regulatory requirements",
+      "Proven track record with over 500+ successful Malaysian sellers",
+      "Strategic partnerships with logistics providers and government agencies",
+      "Access to exclusive programs like MATRADE's eTRADE Programme 2.0"
+    ]
+  },
+  
+  "services": {
+    "account_setup_management": {
+      "title": "Amazon Account Setup & Management",
+      "description": "Complete account registration, verification, and optimization for Malaysian sellers across multiple Amazon marketplaces",
+      "features": [
+        "Professional seller account setup",
+        "Tax registration and compliance management",
+        "Account health monitoring and maintenance",
+        "Multi-marketplace integration (US, UAE, Singapore, UK)"
+      ]
+    },
+    "fba_logistics_support": {
+      "title": "FBA & Cross-Border Logistics",
+      "description": "Streamlined fulfillment solutions that eliminate the complexity of international shipping and customs",
+      "features": [
+        "FBA setup and inventory management",
+        "International shipping coordination with DHL, FedEx, UPS",
+        "Customs clearance and regulatory compliance",
+        "Inventory forecasting and replenishment strategies"
+      ]
+    },
+    "product_research_optimization": {
+      "title": "Product Research & Listing Optimization",
+      "description": "Data-driven product selection and listing optimization to maximize visibility and conversions",
+      "features": [
+        "Market research using Helium 10 and Jungle Scout",
+        "SEO-optimized product listings",
+        "High-quality product photography coordination",
+        "Competitive analysis and pricing strategies"
+      ]
+    },
+    "marketing_advertising": {
+      "title": "Amazon Marketing & Advertising",
+      "description": "Comprehensive advertising management to drive traffic and boost sales performance",
+      "features": [
+        "Amazon PPC campaign management",
+        "Sponsored Product and Brand advertising",
+        "Lightning Deals and promotional campaigns",
+        "Review generation through Amazon Vine program"
+      ]
+    },
+    "compliance_support": {
+      "title": "Regulatory Compliance & Legal Support",
+      "description": "Navigate complex international regulations and maintain compliance across all markets",
+      "features": [
+        "FDA certification for food products",
+        "VAT registration and management",
+        "Intellectual property protection",
+        "Returns and customer service management"
+      ]
+    }
+  },
+  
+  "value_propositions": {
+    "cost_efficiency": {
+      "title": "Reduce Operational Costs by 40%",
+      "description": "Our optimized logistics network and bulk shipping agreements significantly lower your cross-border selling costs",
+      "benefits": [
+        "Access to discounted shipping rates through our logistics partnerships",
+        "Reduced FBA storage fees through smart inventory management",
+        "Lower advertising costs through optimized campaign management"
+      ]
+    },
+    "time_savings": {
+      "title": "Save 20+ Hours Per Week",
+      "description": "Focus on growing your business while our experts handle the operational complexities",
+      "benefits": [
+        "Automated inventory management and reordering",
+        "24/7 account monitoring and issue resolution",
+        "Streamlined compliance and documentation processes"
+      ]
+    },
+    "market_access": {
+      "title": "Access Global Markets from Day One",
+      "description": "Leverage our expertise to expand into international markets with confidence",
+      "benefits": [
+        "Proven strategies for entering US, UAE, and Singapore markets",
+        "Cultural and regulatory insights for each marketplace",
+        "Established relationships with local service providers"
+      ]
+    },
+    "growth_acceleration": {
+      "title": "Scale Revenue 3x Faster",
+      "description": "Our data-driven approach and proven methodologies accelerate your growth trajectory",
+      "benefits": [
+        "AI-powered product research and market analysis",
+        "Performance tracking and optimization recommendations",
+        "Access to exclusive funding opportunities and grants"
+      ]
+    }
+  },
+  
+  "product_categories": {
+    "electronics": {
+      "title": "Electronics & Tech Accessories",
+      "description": "High-demand electronic products perfect for cursor interaction effects",
+      "trending_products": [
+        {
+          "name": "Wireless Bluetooth Earbuds",
+          "features": ["Bluetooth 5.4", "40-75 hour battery", "IPX7 waterproof", "Noise cancellation"],
+          "avg_monthly_revenue": "$15000+",
+          "cursor_effect_potential": "Product rotation on hover showing different angles and color variants"
+        },
+        {
+          "name": "Multi-Port Surge Protectors",
+          "features": ["6-12 outlets", "USB charging ports", "Overload protection", "Compact design"],
+          "avg_monthly_revenue": "$8000+",
+          "cursor_effect_potential": "Interactive outlet highlighting and feature callouts"
+        },
+        {
+          "name": "Powerbank Chargers",
+          "features": ["20000mAh capacity", "Fast charging", "LED display", "Multiple device support"],
+          "avg_monthly_revenue": "$12000+",
+          "cursor_effect_potential": "Battery level animation and charging port highlights"
+        },
+        {
+          "name": "Gaming Mice & Keyboards",
+          "features": ["RGB lighting", "Programmable buttons", "High DPI", "Ergonomic design"],
+          "avg_monthly_revenue": "$10000+",
+          "cursor_effect_potential": "RGB color cycling and button mapping visualization"
+        }
+      ],
+      "market_insights": {
+        "growth_rate": "9.1% YoY search growth",
+        "competition_level": "Medium",
+        "seasonality": "Strong Q4 performance due to gift-giving"
+      }
+    },
+    
+    "home_kitchen": {
+      "title": "Home & Kitchen Essentials",
+      "description": "Everyday household items with strong visual appeal for interactive elements",
+      "trending_products": [
+        {
+          "name": "Insulated Travel Tumblers",
+          "features": ["40oz capacity", "Temperature retention", "Leak-proof design", "Multiple colors"],
+          "avg_monthly_revenue": "$25000+",
+          "cursor_effect_potential": "Temperature visualization and color variant switching"
+        },
+        {
+          "name": "Rice Cookers",
+          "features": ["Multi-function cooking", "Digital display", "Non-stick interior", "Energy efficient"],
+          "avg_monthly_revenue": "$18000+",
+          "cursor_effect_potential": "Cooking process animation and capacity indicators"
+        },
+        {
+          "name": "Coffee Makers & Accessories",
+          "features": ["Programmable brewing", "Auto-shutoff", "Multiple cup sizes", "Easy cleanup"],
+          "avg_monthly_revenue": "$22000+",
+          "cursor_effect_potential": "Brewing animation and feature highlights"
+        },
+        {
+          "name": "Stand Mixers",
+          "features": ["Multiple attachments", "Various colors", "Large capacity bowl", "Durable construction"],
+          "avg_monthly_revenue": "$35000+",
+          "cursor_effect_potential": "Attachment switching and mixing motion animations"
+        }
+      ],
+      "market_insights": {
+        "growth_rate": "6.3% YoY search growth",
+        "competition_level": "High",
+        "seasonality": "Peak during wedding season and holidays"
+      }
+    },
+    
+    "fashion_accessories": {
+      "title": "Fashion & Accessories",
+      "description": "Trendy fashion items ideal for style showcase interactions",
+      "trending_products": [
+        {
+          "name": "Layered Western Necklaces",
+          "features": ["Gold-plated", "Adjustable length", "Boho design", "Hypoallergenic"],
+          "avg_monthly_revenue": "$8000+",
+          "cursor_effect_potential": "Layering visualization and style combination previews"
+        },
+        {
+          "name": "Leather Wrap Bracelets", 
+          "features": ["Genuine leather", "Crystal beads", "Multiple colors", "Adjustable sizing"],
+          "avg_monthly_revenue": "$6000+",
+          "cursor_effect_potential": "Wrapping animation and color/bead customization"
+        },
+        {
+          "name": "Silver Statement Earrings",
+          "features": ["Chunky hoops", "Geometric designs", "Lightweight", "Tarnish resistant"],
+          "avg_monthly_revenue": "$9000+",
+          "cursor_effect_potential": "Movement simulation and style pairing suggestions"
+        },
+        {
+          "name": "Canvas Backpacks",
+          "features": ["Multiple compartments", "Water-resistant", "Ergonomic design", "Various sizes"],
+          "avg_monthly_revenue": "$12000+",
+          "cursor_effect_potential": "Compartment exploration and capacity demonstrations"
+        }
+      ],
+      "market_insights": {
+        "growth_rate": "14.82% YoY search growth for backpacks",
+        "competition_level": "High",
+        "seasonality": "Strong back-to-school and gift-giving periods"
+      }
+    },
+    
+    "health_wellness": {
+      "title": "Health & Wellness Products",
+      "description": "Growing category focusing on preventive health and fitness",
+      "trending_products": [
+        {
+          "name": "Multivitamin Supplements",
+          "features": ["90-day supply", "Essential nutrients", "Third-party tested", "Easy absorption"],
+          "avg_monthly_revenue": "$20000+",
+          "cursor_effect_potential": "Nutrient breakdown visualization and dosage information"
+        },
+        {
+          "name": "Fish Oil Capsules",
+          "features": ["Omega-3 rich", "Heart health support", "Burpless formula", "Sustainable sourcing"],
+          "avg_monthly_revenue": "$15000+",
+          "cursor_effect_potential": "Health benefit illustrations and ingredient sourcing"
+        },
+        {
+          "name": "Protein Powder",
+          "features": ["25g protein per serving", "Multiple flavors", "Easy mixing", "Post-workout recovery"],
+          "avg_monthly_revenue": "$18000+",
+          "cursor_effect_potential": "Mixing animation and flavor selection"
+        },
+        {
+          "name": "Yoga Mats & Accessories",
+          "features": ["Non-slip surface", "Extra cushioning", "Eco-friendly materials", "Carrying strap"],
+          "avg_monthly_revenue": "$10000+",
+          "cursor_effect_potential": "Pose demonstrations and thickness comparisons"
+        }
+      ],
+      "market_insights": {
+        "growth_rate": "6.71% YoY search growth",
+        "competition_level": "Medium-High",
+        "seasonality": "New Year resolution spike and summer prep"
+      }
+    },
+    
+    "sports_outdoor": {
+      "title": "Sports & Outdoor Equipment",
+      "description": "Active lifestyle products with strong cultural relevance in Malaysia",
+      "trending_products": [
+        {
+          "name": "Badminton Rackets & Sets",
+          "features": ["Lightweight carbon fiber", "Professional grade", "Complete sets available", "Various weights"],
+          "avg_monthly_revenue": "$7000+",
+          "cursor_effect_potential": "Swing motion animation and weight comparison tools"
+        },
+        {
+          "name": "Cycling Accessories",
+          "features": ["LED lights", "Waterproof bags", "Comfortable seats", "Safety gear"],
+          "avg_monthly_revenue": "$9000+",
+          "cursor_effect_potential": "Safety feature highlights and installation guides"
+        },
+        {
+          "name": "Fitness Trackers",
+          "features": ["Heart rate monitoring", "Sleep tracking", "Waterproof design", "Long battery life"],
+          "avg_monthly_revenue": "$16000+",
+          "cursor_effect_potential": "Data visualization and feature demonstrations"
+        },
+        {
+          "name": "Outdoor Hiking Gear",
+          "features": ["Weather-resistant", "Lightweight design", "Multi-functional", "Durability tested"],
+          "avg_monthly_revenue": "$11000+",
+          "cursor_effect_potential": "Weather simulation and durability demonstrations"
+        }
+      ],
+      "market_insights": {
+        "growth_rate": "6.7% YoY search growth",
+        "competition_level": "Medium",
+        "seasonality": "Peak during school holidays and outdoor seasons"
+      }
+    }
+  },
+  
+  "agent_profiles": [
+    {
+      "id": "sarah_chen",
+      "name": "Sarah Chen",
+      "role": "Senior Amazon Strategy Consultant",
+      "specialties": [
+        "Cross-border e-commerce strategy",
+        "FBA optimization",
+        "Market expansion planning",
+        "Regulatory compliance"
+      ],
+      "experience": "8+ years",
+      "description": "Sarah leads our strategic consulting division with extensive experience helping Malaysian brands scale internationally. She has personally guided over 150 sellers to achieve 6-figure revenues on Amazon US and UAE marketplaces. Her expertise in regulatory compliance and logistics optimization has saved clients over $2M in operational costs.",
+      "achievements": [
+        "Successfully launched 50+ Malaysian brands on Amazon US",
+        "Achieved average 300% revenue growth for clients within first year",
+        "Expert in FDA compliance for Malaysian food products"
+      ],
+      "languages": ["English", "Mandarin", "Bahasa Malaysia"],
+      "certifications": ["Amazon Advertising Certified", "Global Trade Compliance"]
+    },
+    
+    {
+      "id": "ahmad_rashid",
+      "name": "Ahmad Rashid",
+      "role": "FBA Logistics Specialist",
+      "specialties": [
+        "International shipping coordination",
+        "Inventory management",
+        "Cost optimization",
+        "Supplier negotiations"
+      ],
+      "experience": "6+ years",
+      "description": "Ahmad specializes in streamlining cross-border logistics for Malaysian sellers. With deep relationships with major shipping carriers and customs brokers, he ensures smooth and cost-effective fulfillment operations. His systematic approach to inventory planning has helped clients reduce storage costs by up to 45%.",
+      "achievements": [
+        "Negotiated bulk shipping rates saving clients 40% on logistics costs",
+        "Maintained 99.2% on-time delivery rate for FBA shipments",
+        "Established partnerships with 15+ logistics providers across ASEAN"
+      ],
+      "languages": ["English", "Bahasa Malaysia", "Arabic"],
+      "certifications": ["Supply Chain Management", "International Trade Logistics"]
+    },
+    
+    {
+      "id": "priya_kumar",
+      "name": "Priya Kumar", 
+      "role": "Product Research & Listing Expert",
+      "specialties": [
+        "Market research and analysis",
+        "SEO optimization",
+        "Product photography coordination",
+        "Competitive intelligence"
+      ],
+      "experience": "5+ years",
+      "description": "Priya combines data science with creative marketing to identify winning products and create compelling listings. Her research methodology has consistently identified products with 20%+ profit margins and low competition. She has optimized over 3,000 product listings with an average 40% improvement in conversion rates.",
+      "achievements": [
+        "Identified 200+ profitable product opportunities for Malaysian sellers",
+        "Achieved average 65% increase in organic ranking through SEO optimization",
+        "Developed proprietary product research framework adopted company-wide"
+      ],
+      "languages": ["English", "Hindi", "Tamil", "Bahasa Malaysia"],
+      "certifications": ["Amazon SEO Specialist", "Digital Marketing Analytics"]
+    },
+    
+    {
+      "id": "james_wong",
+      "name": "James Wong",
+      "role": "PPC & Marketing Automation Manager",
+      "specialties": [
+        "Amazon PPC campaigns",
+        "Performance marketing",
+        "Marketing automation",
+        "ROI optimization"
+      ],
+      "experience": "7+ years",
+      "description": "James drives profitable growth through data-driven advertising strategies. His advanced PPC techniques and automation systems have generated over $10M in revenue for clients while maintaining industry-leading ROAS. He specializes in scaling campaigns from launch to 7-figure revenues.",
+      "achievements": [
+        "Managed $5M+ in Amazon advertising spend with 4.2x average ROAS",
+        "Developed automated bidding systems reducing campaign management time by 70%",
+        "Trained 100+ sellers in advanced PPC strategies through workshops"
+      ],
+      "languages": ["English", "Cantonese", "Mandarin"],
+      "certifications": ["Amazon Advertising Advanced", "Google Analytics", "Facebook Blueprint"]
+    },
+    
+    {
+      "id": "melissa_tan",
+      "name": "Melissa Tan",
+      "role": "Account Health & Compliance Director",
+      "specialties": [
+        "Account health management",
+        "Policy compliance",
+        "Brand protection",
+        "Crisis resolution"
+      ],
+      "experience": "9+ years",
+      "description": "Melissa ensures sellers maintain perfect account health while navigating Amazon's complex policy landscape. Her proactive monitoring systems and rapid response protocols have helped prevent account suspensions and resolved critical issues for 500+ sellers. She maintains a 98% success rate in account reinstatement cases.",
+      "achievements": [
+        "Prevented 200+ potential account suspensions through proactive monitoring",
+        "Achieved 98% success rate in account reinstatement appeals",
+        "Established compliance frameworks now used across the industry"
+      ],
+      "languages": ["English", "Bahasa Malaysia", "Hokkien"],
+      "certifications": ["Amazon Policy Expert", "Brand Registry Specialist", "IP Protection"]
+    }
+  ],
+  
+  "visual_requirements": {
+    "hero_section": {
+      "background_image": "Malaysian skyline with modern buildings transitioning to global marketplaces",
+      "overlay_elements": [
+        "Animated Amazon marketplace logos (US, UAE, Singapore)",
+        "Rising graph animations showing growth metrics",
+        "Malaysian flag integration subtly incorporated"
+      ]
+    },
+    
+    "product_showcase": {
+      "product_images": [
+        "High-resolution product photos for each category (300+ images needed)",
+        "360-degree view capabilities for electronics and appliances", 
+        "Lifestyle shots showing products in use",
+        "Comparison charts and infographic elements",
+        "Color variant displays for fashion and accessories"
+      ],
+      "interaction_elements": [
+        "Hover effects revealing product specifications",
+        "Click-through animations showing product features",
+        "Before/after transformation visuals",
+        "Size and scale comparison tools"
+      ]
+    },
+    
+    "agent_profiles": {
+      "professional_headshots": [
+        "5 high-quality professional headshots in business attire",
+        "Consistent lighting and background styling",
+        "Authentic Malaysian professional representation",
+        "Multiple angles available for each agent",
+        "Casual secondary shots for approachability"
+      ],
+      "supporting_visuals": [
+        "Achievement badges and certification logos",
+        "Client success story graphics",
+        "Before/after client results charts"
+      ]
+    },
+    
+    "company_credentials": {
+      "certification_badges": [
+        "Amazon Partner Network logos",
+        "MATRADE partnership certification",
+        "Government agency endorsements",
+        "Industry association memberships"
+      ],
+      "infographics": [
+        "Success statistics and metrics visualization",
+        "Process flow diagrams for services",
+        "Timeline graphics showing company growth",
+        "Client testimonial quote graphics"
+      ]
+    },
+    
+    "interactive_elements": {
+      "cursor_effects": [
+        "Product rotation animations on hover",
+        "Feature callout overlays",
+        "Color and variant switching",
+        "Size comparison tools",
+        "Progress bar animations for processes"
+      ],
+      "animations": [
+        "Number counters for statistics",
+        "Progress bars for success metrics",
+        "Floating icons for services",
+        "Smooth transitions between sections"
+      ]
+    },
+    
+    "brand_assets": {
+      "logo_variations": [
+        "Primary logo with tagline",
+        "Icon-only version for mobile",
+        "Horizontal layout for headers",
+        "Monochrome versions for various backgrounds"
+      ],
+      "color_palette": [
+        "Amazon orange (#FF9900) for accents",
+        "Malaysian blue (#010066) for trust elements",  
+        "Professional gray (#2C3E50) for text",
+        "Success green (#27AE60) for positive metrics"
+      ]
+    }
+  },
+  
+  "content_notes": {
+    "localization": "All content should reflect Malaysian business culture while appealing to international expansion mindset",
+    "tone": "Professional yet approachable, emphasizing expertise and results-driven approach",
+    "seo_keywords": [
+      "Amazon seller Malaysia",
+      "FBA Malaysia", 
+      "Cross-border ecommerce Malaysia",
+      "Amazon consultant Malaysia",
+      "Sell on Amazon from Malaysia"
+    ],
+    "call_to_action_focus": "Emphasize free consultation and success guarantee to reduce barrier to entry",
+    "social_proof_integration": "Include client logos, testimonials, and quantified results throughout the page"
+  }
+}
